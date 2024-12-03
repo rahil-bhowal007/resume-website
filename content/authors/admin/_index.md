@@ -47,9 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Autonomous Robotics and Intelligent Systems
-  - Multi-Robot Collaboration and Coordination
-  - Perception and Computer Vision in Robotics
+  - Autonomous and Intelligent Systems
+  - Multi-Robot Systems
+  - Perception in Robotics
   - Motion Planning and Navigation
 
 education:
@@ -69,6 +69,12 @@ education:
       - CS 5335 Robot Science and Systems
       - CS 5180 Reinforcement Learning
       - ME 5250 Robot Mechanics and Control
+  - area: BTech in Computer Science
+    institution: SRM Institute of Science and Technology, Kattankulathur
+    date_start: 2017-05-31
+    date_end: 2021-05-31
+    summary: |
+      GPA: 3.5/4.0
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -95,28 +101,29 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Associate Product Developer
+    company_name: Edgeverve Systems
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-10-01
+    date_end: 2023-05-15
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Led enhancements, development initiatives, and critical bug fixes for Finacle Treasury, driving product evolution and maintaining competitiveness.
+      - Optimized system performance through advanced memory management concepts and design patterns in C++, boosting FX Plus module performance by 75%.
+      - Conducted Configuration Control audits to ensure product compliance and adherence to standards.
+      - Awarded the "Crusader Award" for outstanding contributions to product development and system performance.
+  - position: Software Developer Intern
+    company_name: MTX Group 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-05-01
+    date_end: 2021-09-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed key features for internal applications, improving daily operational efficiency.
+      - Enhanced manager approval processes, reducing errors by 30% through optimized system functionalities.
+      - Collaborated with cross-functional teams to ensure seamless integration and functionality across systems.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -155,41 +162,41 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Crusader Award
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-04-25'
+    awarder: Edgeverve Systems Limited
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The "Crusader Award" was granted in recognition of my exceptional contributions to the enhancement and performance optimization of the Finacle Treasury product. Through the development of advanced memory management techniques and design patterns in C++, I improved the performance of the FX Plus module by 75%, significantly boosting the product's competitiveness and efficiency.
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: '2023-07-01'
+  #   awarder: edX
+  #   icon: edx
+  #   summary: |
+  #     Learned:
+  #     - Synthesize your own blockchain solutions
+  #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
+  #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  # - title: 'Object-Oriented Programming in R'
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: '2023-01-21'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: |
+  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
