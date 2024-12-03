@@ -118,7 +118,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2021-05-01
-    date_end: 2021-09-31
+    date_end: 2021-09-30
     summary: |
       Responsibilities include:
       - Developed key features for internal applications, improving daily operational efficiency.
