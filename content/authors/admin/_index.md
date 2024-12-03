@@ -3,7 +3,7 @@
 title: Rahil Bhowal
 
 # Name pronunciation (optional)
-name_pronunciation: Rahil Bhowal
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Rahil 
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MS Robotics(with a concentration in Computer Science) Student
+role: Masters Student in Robotics | Graduate Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,8 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Multi-Robot Systems
-  - Perception in Robotics
+  - Autonomous Robotics and Intelligent Systems
+  - Multi-Robot Collaboration and Coordination
+  - Perception and Computer Vision in Robotics
   - Motion Planning and Navigation
 
 education:
@@ -62,32 +63,37 @@ education:
       Courses included:
       - CS 7150 Autonomous Field Robotics
       - CS 5330 Pattern Recognition and Computer Vision
-      - CS 
+      - EECE 7150 Deep Learning
+      - EECE 5550 Mobile Robotics
+      - EECE 5554 Robot Sensing and Navigation
+      - CS 5335 Robot Science and Systems
+      - CS 5180 Reinforcement Learning
+      - ME 5250 Robot Mechanics and Control
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -187,5 +193,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rahil Bhowal is a master’s student in robotics at Northeastern University, with a deep interest in the intersection of robotics, artificial intelligence, and computer vision. His work explores the development of intelligent systems that navigate complex environments and tackle real-world challenges, from autonomous navigation to underwater exploration. With a passion for innovation, Rahil aims to advance the frontiers of robotics through thoughtful design and interdisciplinary collaboration.
