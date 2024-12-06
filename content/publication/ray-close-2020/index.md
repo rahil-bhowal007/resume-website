@@ -14,4 +14,5 @@ publication: '*2020 IEEE 4th Conference on Information & Communication Technolog
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/9312090/
+featured: true
 ---

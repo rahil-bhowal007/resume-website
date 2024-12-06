@@ -14,4 +14,5 @@ publication: '*2021 International Conference on Communication, Control and Infor
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/9484879/
+featured: true
 ---
