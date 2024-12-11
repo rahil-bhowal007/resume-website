@@ -9,14 +9,7 @@ cascade:
     params:
       show_breadcrumb: true
 
-- block: markdown
-  content:
-    title: '📚 NOTE'
-    subtitle: ''
-    text: |-
-DETAILS OF PROJECT COMING SOON! 😃
-    design:
-      columns: '1'
+
 
 sections:
   - block: collection
@@ -29,4 +22,12 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown
+      content:
+        title: '📚 NOTE'
+        subtitle: ''
+        text: |-
+        DETAILS OF PROJECT COMING SOON! 😃
+      design:
+          columns: '1'
 ---
