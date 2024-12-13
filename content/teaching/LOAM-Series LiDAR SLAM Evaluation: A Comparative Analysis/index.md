@@ -17,11 +17,39 @@ LOAM and SC-LEGO-LOAM. This comprehensive analysis involved intricate comparison
 of improvements made, and in-depth assessments. Ultimately, we conducted thorough testing and comparison of these three
 algorithms on two extensive long-distance datasets
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## Evaluation and Metrics
+{{</* math */>}}
+$$
+\begin{array}{|l|c|c|}
+\hline
+\textbf{Metric} & \textbf{SC-LeGO-LOAM (\%)} & \textbf{LeGO-LOAM (\%)} \\ \hline
+\text{max} & 1.60 & 2.55 \\ \hline
+\text{mean} & 0.84 & 1.03 \\ \hline
+\text{median} & 0.82 & 1.01 \\ \hline
+\text{min} & 0.08 & 1.35 \\ \hline
+\text{rmse} & 0.90 & 1.13 \\ \hline
+\end{array}
+$$
+{{</* /math */>}}
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+{{</* math */>}}
+$$
+\begin{array}{|l|c|c|}
+\hline
+\textbf{Metric} & \textbf{SC-LeGO-LOAM (\%)} & \textbf{LeGO-LOAM (\%)} \\ \hline
+\text{max} & 2.89 & 8.55 \\ \hline
+\text{mean} & 1.35 & 2.82 \\ \hline
+\text{median} & 1.36 & 3.34 \\ \hline
+\text{min} & 0.20 & 0.27 \\ \hline
+\text{rmse} & 1.46 & 3.34 \\ \hline
+\end{array}
+$$
+{{</* /math */>}}
 
-## Video
+
+
+
+## Output
 
 **Map**
 Here are the map formed by the LOAM Algorithm on the MulRAN Dataset(KAIST track):
