@@ -16,7 +16,7 @@ A student run team made AUV during undergrad. This project is made with collabor
 
 ![srmauv](https://drive.google.com/file/d/1h5URiP_XApL0iLXjrNyg96h2IyTQEUjg/view?usp=sharing)
 
-{{</* video src="SAUVC-IN-21 SRMAUV.mp4" controls="yes" autoplay="yes" loop="yes" */>}}
+{{< video src="SAUVC-IN-21 SRMAUV.mp4" controls="yes" autoplay="yes" loop="yes" />}}
 
 
 
