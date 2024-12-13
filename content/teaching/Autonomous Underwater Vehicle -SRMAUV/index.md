@@ -16,6 +16,10 @@ A student run team made AUV during undergrad. This project is made with collabor
 
 ![srmauv](https://drive.google.com/file/d/1h5URiP_XApL0iLXjrNyg96h2IyTQEUjg/view?usp=sharing)
 
+{{< rawhtml >}}
+<iframe src="https://drive.google.com/file/d/1h5URiP_XApL0iLXjrNyg96h2IyTQEUjg/view?usp=sharing" width="640" height="480" allow="autoplay" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 
 
 
