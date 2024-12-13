@@ -1,7 +1,6 @@
 ---
 title: Attention-guided Off-Road Semantic Segmentation for Autonomous Navigation
-summary: Semantic segmentation system tailored for off-road environments to facili-
-tate autonomous navigation of vehicles.
+summary: Semantic segmentation system tailored for off-road environments to facilitate autonomous navigation of vehicles.
 date: 2024-12-01
 type: docs
 math: false
