@@ -26,27 +26,27 @@ Steps involved are normalising the image, applying histogram equalization techni
 
 **Normalising and applying CLAHE to all the images**
 
-[!normalised images](6_image_set_norm.png)
+![normalised images](6_image_set_norm.png)
 <p align="center">
 <it>Normalised Images</it>
 
-[!clahe images](6_image_set_clahe.png)
+![clahe images](6_image_set_clahe.png)
 <p align="center">
 <it>CLAHE Images</it>
 
-[!sift images](6_image_sift.png)
+![sift images](6_image_sift.png)
 <p align="center">
 <it>SIFT Images</it>
 
-[!before optimization](before_optimization.png)
+![before optimization](before_optimization.png)
 <p align="center">
 <it>Factor graph before Optimization for 6 image set</it>
 
-[!before optimization](after_optimization.png)
+![before optimization](after_optimization.png)
 <p align="center">
 <it>Factor graph after Optimization for 6 Image set</it>
 
-[!bundle adjustment](output_bundleadjustment.png)
+![bundle adjustment](output_bundleadjustment.png)
 <p align="center">
 <it>Output image after Optimization for 6 Image set</it>
 
