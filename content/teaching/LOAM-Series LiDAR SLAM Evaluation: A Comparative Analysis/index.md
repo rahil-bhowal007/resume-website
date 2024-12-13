@@ -1,5 +1,5 @@
 ---
-title: LOAM-SERIES EVALUATION
+title: Loam-Series Evaluation
 summary: Evaluation of comprehensive SLAM systems, namely Lego- LOAM and SC-LEGO-LOAM
 date: 2023-11-24
 type: docs
@@ -7,10 +7,15 @@ math: false
 tags:
   - SLAM, LiDAR
 image:
-  caption: 'On the MulRAN Dataset'
+  caption: 'MulRAN Dataset'
 ---
-
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+ **Introduction**
+In this final project, we systematically examined and compared various algorithms within the LOAM series,
+specifically ALOAM, LEGO-LOAM, and SC-LEGO-LOAM. Our primary focus was on meticulously analyzing the developmental
+trajectory from a singular lidar odometry approach (the original LOAM) to the comprehensive SLAM systems, namely Lego-
+LOAM and SC-LEGO-LOAM. This comprehensive analysis involved intricate comparisons between algorithms, elucidation
+of improvements made, and in-depth assessments. Ultimately, we conducted thorough testing and comparison of these three
+algorithms on two extensive long-distance datasets
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
@@ -18,9 +23,10 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+**Map**
+Here are the map formed by the LOAM Algorithm on the MulRAN Dataset(KAIST track):
+{{< youtube Ytw8goT86MY >}}
 
-{{< youtube D2vj0WcvH5c >}}
 
 **Youtube**:
 
