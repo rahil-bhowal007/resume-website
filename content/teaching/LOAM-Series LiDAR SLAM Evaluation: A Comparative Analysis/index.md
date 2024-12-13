@@ -3,7 +3,7 @@ title: Loam-Series Evaluation
 summary: Evaluation of comprehensive SLAM systems, namely Lego- LOAM and SC-LEGO-LOAM
 date: 2023-11-24
 type: docs
-math: false
+math: true
 tags:
   - SLAM, LiDAR
 image:
@@ -21,7 +21,7 @@ algorithms on two extensive long-distance datasets
 ## Evaluation and Metrics
 
 **Table 1: ATE of LeGO-LOAM and SC-LeGO-LOAM in Kaist sequence** 
-
+{{</* math */>}}
 $$
 \begin{array}{|l|c|c|}
 \hline
@@ -33,10 +33,10 @@ $$
 \text{rmse} & 0.90 & 1.13 \\ \hline
 \end{array}
 $$
-
+{{</* math */>}}
 
 **Table 2: ATE of LeGO-LOAM and SC-LeGO-LOAM in Riverside sequence**
-
+{{</* math */>}}
 $$
 \begin{array}{|l|c|c|}
 \hline
@@ -48,6 +48,7 @@ $$
 \text{rmse} & 1.46 & 3.34 \\ \hline
 \end{array}
 $$
+{{</* math */>}}
 ![RIVERSIDE03](https://github.com/rahil-bhowal007/LOAM-SERIES/assets/65888130/29b68ae0-8bc3-4e0c-ba96-7ac997c3e8a0)
 <p align="center">
 <it> Fig 1. Point Cloud Comparison on RIVERSIDE 03 Dataset </it>
