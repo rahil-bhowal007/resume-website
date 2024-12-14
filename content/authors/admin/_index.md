@@ -132,16 +132,62 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
-        icon: chart-bar
+        #icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
+        #icon: circle-stack'
+        #icon: code-bracket
+        #percent: 100
+        #icon: chart-bar
+      - name: C++
+        description: ''
+      - name: Python
+        description: ''
+        #icon: code-bracket
+      - name: MATLAB
+        description: ''
+      - name: Git
+        description: ''
+      - name: GitHub
+        description: ''
+      - name: ROS1/ROS2
+        description: ''
+      - name: Gazebo
+        description: ''
+      - name: MoveIt
+        description: ''
+      - name: OpenAI Gym
+        description: ''
+      - name: Linux
+        description: ''
+      - name: Sensor Fusion
+        description: ''
+      - name: SLAM
+        description: ''
+      - name: Motion Planning
+        description: ''
+      - name: GTSAM
+        description: ''
+      - name: CVXPY
+        description: ''
+      - name: Deep Reinforcement Learning
+        description: ''
+      - name: TensorFlow
+        description: ''
+      - name: PyTorch
+        description: ''
+      - name: Keras
+        description: ''
+      - name: OpenCV
+        description: ''
+      - name: Pandas
+        description: ''
+      - name: NumPy
+        description: ''
+      - name: Scikit-learn
+        description: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -150,14 +196,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
   - name: English
