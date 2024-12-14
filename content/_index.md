@@ -35,10 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-                My research focuses on enabling autonomous robotic systems to collaborate in complex and dynamic environments. By leveraging heterogeneous robotic platforms, I explore innovative approaches for robots to work together and achieve tasks that individual systems cannot accomplish alone.
-
+        My research focuses on enabling autonomous robotic systems to collaborate in complex and dynamic. By leveraging heterogeneous robotic platforms, I explore innovative approaches for robots to work together and achieve tasks that individual systems cannot accomplish alone.
         This includes studying multi-robot coordination for exploration, designing algorithms for robust perception and navigation, and developing interaction paradigms to enhance human-robot collaboration. My work spans diverse domains, from underwater robotics—using Autonomous Underwater Vehicles (AUVs) and Remotely Operated Vehicles (ROVs)—to on-ground systems like Turtlebots and Moorebots.
-
         Through my research, I aim to advance the understanding of human-robot interaction, create new frameworks for multi-agent systems, and contribute to the development of intelligent robotic systems capable of solving real-world challenges.
         Please reach out to collaborate 😃
     design:
