@@ -200,4 +200,8 @@ awards:
 ---
 
 ## About Me
-Rahil Bhowal is a master’s student in robotics at Northeastern University, with a deep interest in the intersection of robotics, artificial intelligence, and computer vision. His work explores the development of intelligent systems that navigate complex environments and tackle real-world challenges, from autonomous navigation to underwater exploration. With a passion for innovation, Rahil aims to advance the frontiers of robotics through thoughtful design and interdisciplinary collaboration.
+Hi! I’m Rahil Bhowal, a Master’s student in Robotics at Northeastern University, Boston, with a concentration in Computer Science. My passion lies in leveraging robotics to explore and navigate complex environments, from underwater domains to on-ground terrains.
+
+I’ve had the opportunity to work with diverse robotic systems, including Autonomous Underwater Vehicles (AUVs), Remotely Operated Vehicles (ROVs), Turtlebots, and Moorebots. During my master’s journey, I’ve delved deeply into robotic perception and explored the coordination of multiple robots for collaborative exploration.
+
+With my skills and experience, I aspire to push the boundaries of robotics and contribute to its transformative impact on the world.
