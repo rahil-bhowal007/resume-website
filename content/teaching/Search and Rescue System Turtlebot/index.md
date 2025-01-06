@@ -1,15 +1,17 @@
 ---
-title: Search and Rescue Mission Using Turtlebot
-summary: Developed an autonomous reconnaissance system on Turetlebot3 robot using SLAM, AprilTag detection,
-and frontier exploration to map environments and locate simulated victims in disaster scenarios.
+title: "Search and Rescue Mission Using Turtlebot"
+summary: "Developed an autonomous reconnaissance system on Turtlebot3 robot using SLAM, AprilTag detection, and frontier exploration to map environments and locate simulated victims in disaster scenarios."
 date: 2024-05-01
-type: docs
+type: "docs"
 math: false
 tags:
-  - Exploration, Frontiers, Turtlebot3 
+  - "Exploration"
+  - "Frontiers"
+  - "Turtlebot3"
 image:
-  caption: 'Search and Rescue Mission'
+  caption: "Search and Rescue Mission"
 ---
+
 ## Introduction
 
 Semantic segmentation is a critical task in computer vision, enabling pixel-level understanding of
