@@ -7,7 +7,7 @@ math: false
 tags:
   - Semantic Segmentation, OffRoad Environments, Computer Vision
 image:
-  caption: 'MulRAN Dataset'
+  caption: 'Off-Road Segmentation'
 ---
 ## Introduction
 
@@ -16,7 +16,7 @@ tate autonomous navigation of vehicles.Leveraged deep learning techniques and at
 enhance the segmentation accuracy in challenging off-road terrains.
 
 ## Evaluation and Metrics
-WILL BE UPDATED SOON
+
 
 
 ## Output
@@ -25,7 +25,7 @@ WILL BE UPDATED SOON
 <it>Output on RUGD Dataset</it>
 
 
-## MORE VIDEOS WILL BE ADDED SOON LOOKING FOR PHD OPPORTUNITIES FOR FALL 2025
+
 
 
 

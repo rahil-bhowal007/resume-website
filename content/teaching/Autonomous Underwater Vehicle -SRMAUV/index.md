@@ -19,21 +19,3 @@ A student run team made AUV during undergrad. This project is made with collabor
 {{< video src="SAUVC-IN-21 SRMAUV.mp4" controls="yes" autoplay="yes" loop="yes" >}}
 
 
-
-
-
-
-
- 
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌

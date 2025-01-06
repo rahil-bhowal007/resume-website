@@ -90,18 +90,4 @@ Here are the map formed by the LOAM Algorithm on the MulRAN Dataset(KAIST track)
 
 
 
-
-
- 
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
 ## Did you find this page helpful? Consider sharing it 🙌

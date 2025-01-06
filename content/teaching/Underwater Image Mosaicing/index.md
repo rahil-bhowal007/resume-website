@@ -50,10 +50,15 @@ Steps involved are normalising the image, applying histogram equalization techni
 <p align="center">
 <it>Output image after Optimization for 6 Image set</it>
 
+![bundle adjustment](128_without_bundle_Adjustment.png)
+<p align="center">
+<it>Output Image before Optimization for 128 Image set</it>
+
+![bundle adjustment](128_after.png)
+<p align="center">
+<it>Output Image after Optimization for 128 Image set</it>
 
 
-
-## MORE VIDEOS WILL BE ADDED SOON LOOKING FOR PHD OPPORTUNITIES FOR FALL 2025
 
 
 
