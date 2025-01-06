@@ -1,5 +1,5 @@
 ---
-title: 3D Reconstruction Usinf Structure From Motion (SfM)
+title: 3D Reconstruction Using Structure From Motion (SfM)
 summary: 3D Reconstruction 
 date: 2024-11-24
 type: docs
