@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Projects (this website is still being updated. Will add all projects by 17 Dec)
+      title: Projects (this website is still being updated :)
       filters:
         folders:
           - teaching
