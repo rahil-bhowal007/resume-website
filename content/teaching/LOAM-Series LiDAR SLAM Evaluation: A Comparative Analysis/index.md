@@ -86,7 +86,7 @@ are illustrated in Figure 1 and Figure 2.
 Here are the map formed by the LOAM Algorithm on the MulRAN Dataset(KAIST track):
 {{< youtube Ytw8goT86MY >}}
 
-## MORE VIDEOS WILL BE ADDED SOON LOOKING FOR PHD OPPORTUNITIES FOR FALL 2025
+## MORE VIDEOS WILL BE ADDED SOON 
 
 
 
