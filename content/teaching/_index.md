@@ -20,6 +20,7 @@ sections:
         folders:
           - teaching
     design:
-      view: article-grid
-      columns: 8
+      #view: article-grid
+      view: card
+      columns: 2
 ---
