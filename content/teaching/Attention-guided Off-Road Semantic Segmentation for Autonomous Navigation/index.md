@@ -82,7 +82,9 @@ on the frequency of 4 classes in the dataset. Balance weights were calculated to
 representation of underrepresented groups. These weights were incorporated in the CrossEntropy
 class ensuring the model learns features for all classes.
 The below table shows the parameters for training on the RUGD Dataset.
+
 **Table 1: Comparison of Training Parameters for Different Models** 
+
 {{</* math */>}}
 $$
 \begin{array}{|l|c|c|c|c|}
@@ -101,8 +103,10 @@ $$
 The 4 models were evaluated on the RUGD dataset, where the ResNetUNetASPP, ResNetUNetASP-
 PWithAttention, Segformer were evaluated on all 24 classes, the ResNetUNetASPPWithAttention*
 was evaluated dividing the 24 classes into 4 categories.
+
 **Table 2: Performance Metrics on RUGD** 
-{{</* math */>}}
+
+
 $$
 \begin{array}{|l|c|c|}
 \hline
@@ -113,7 +117,7 @@ $$
 \text{ResNetUNetASPPWithAttention*} & 0.6138 & 0.7411 \\ \hline
 \end{array}
 $$
-{{</* math */>}}
+
 
 
 
