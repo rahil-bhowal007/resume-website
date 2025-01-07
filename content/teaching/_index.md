@@ -16,11 +16,11 @@ sections:
     id: teaching
     content:
       title: Projects (this website is still being updated :)
+      count: 0
       filters:
         folders:
           - teaching
     design:
-      #view: article-grid
-      view: card
+      view: article-grid
       columns: 2
 ---
