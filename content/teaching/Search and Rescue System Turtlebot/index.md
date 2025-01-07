@@ -62,6 +62,21 @@ Compute gain for each point (optimizes yaw)​
 Return highest gain pose as exploration goal.
 
 
+## Videos
+**Demo Video Trial 1**
+{{< youtube DVYWCJb7myw >}}
+
+**Demo Video Trial 2**
+{{< youtube SJKM50UK9RU >}}
+
+![Final Output](featured.png)
+<p align="center">
+<it>Final Map and Tag Location</it>
+
+
+
+
+
 
 
 
