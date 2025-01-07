@@ -73,6 +73,7 @@ Return highest gain pose as exploration goal.
 <p align="center">
 <it>Final Map and Tag Location</it>
 
+**Read more about it on  [!Report](2404.13767v1.pdf)**
 
 
 
