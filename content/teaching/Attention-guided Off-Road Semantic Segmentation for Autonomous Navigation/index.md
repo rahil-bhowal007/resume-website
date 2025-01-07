@@ -85,7 +85,7 @@ The below table shows the parameters for training on the RUGD Dataset.
 
 **Table 1: Comparison of Training Parameters for Different Models** 
 
-{{</* math */>}}
+
 $$
 \begin{array}{|l|c|c|c|c|}
 \hline
@@ -96,7 +96,7 @@ $$
 \text{ResNetUNetASPPWithAttention*} & 13 & 0.001 & \text{Adam} & 32 \\ \hline
 \end{array}
 $$
-{{</* math */>}}
+
 
 
 ## Evaluation and Metrics
