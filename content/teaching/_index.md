@@ -21,5 +21,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 3
+      columns: 8
 ---
