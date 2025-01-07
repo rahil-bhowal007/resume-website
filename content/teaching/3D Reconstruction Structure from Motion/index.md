@@ -78,5 +78,10 @@ The goal is to accurately reconstruct the 3D structure of the scene and estimate
 <p align="center">
 <it>With Bundle Adjustment</it>
 
+![Output zoomed image](featured.png)
+<p align="center">
+<it>Output image</it>
+
+
 
 ## Did you find this page helpful? Consider sharing it 🙌
