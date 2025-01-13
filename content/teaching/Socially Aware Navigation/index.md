@@ -11,7 +11,7 @@ tags:
   - "ROS2"
   - "Turtlebot4"
 image:
-  caption: ""
+  caption: "The image is taken from a published paper"
 ---
 
 ## Introduction
