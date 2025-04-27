@@ -1,0 +1,18 @@
+---
+title: A Close Look at Software Design Aspects of Remotely Operated Vehicles—A Survey
+authors:
+- Sourjyadip Ray
+- Rahil Bhowal
+- Purvik Patel
+- K. Annapurani Panaiyappan
+date: '2020-01-01'
+publishDate: '2024-12-06T06:37:16.831294Z'
+publication_types:
+- paper-conference
+publication: '*2020 IEEE 4th Conference on Information & Communication Technology
+  (CICT)*'
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/abstract/document/9312090/
+featured: true
+---

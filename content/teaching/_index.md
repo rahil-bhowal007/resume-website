@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Projects
+summary: My Projects
 type: landing
 
 cascade:
@@ -9,11 +9,14 @@ cascade:
     params:
       show_breadcrumb: true
 
+
+
 sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Projects (this website is still being updated :)
+      count: 0
       filters:
         folders:
           - teaching
